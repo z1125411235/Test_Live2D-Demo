@@ -1,0 +1,7 @@
+版本:Unity 2017.4.27f1 (64-bit)
+
+UWA網址__無
+
+本人Github網址__https://github.com/z1125411235/Test_Live2D-Demo
+
+官方Github網址__https://github.com/lunetis/Live2D-Demo?fbclid=IwAR2TfFC4Rjw6k1H5HQ2-pkWnAL5BJiaifcrXGhZwoSfcn2awgNa3aW8tX0s
